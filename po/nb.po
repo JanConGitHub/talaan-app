@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-09-18 14:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: JanConGitHub <janc@sherdahl.no>\n"
+"Last-Translator: Jan Sherdahl <janc@sherdahl.no>\n"
 "Language-Team: NORWEGIAN <LL@li.org>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
@@ -442,7 +442,7 @@ msgstr "Fjern markering"
 #: /home/kugi_igi/Documents/Development_Projects/Talaan_QtQuick/talaan/ui/ItemsPage_layouts.qml:127
 #: /home/kugi_igi/Documents/Development_Projects/Talaan_QtQuick/talaan/ui/SavedTab.qml:410
 msgid "New checklist"
-msgstr "Nye sjekklister"
+msgstr "Ny sjekkliste"
 
 #: /home/kugi_igi/Documents/Development_Projects/Talaan_QtQuick/talaan/ui/ItemsPage.qml:160
 #: /home/kugi_igi/Documents/Development_Projects/Talaan_QtQuick/talaan/ui/ItemsPage_layouts.qml:134
